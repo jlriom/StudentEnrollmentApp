@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentEnrollmentApi", "StudentEnrollmentApi\StudentEnrollmentApi.csproj", "{58BB01B4-AF01-4647-9514-3DD21706CBDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DAB80011-F36F-4D20-9185-5F56F14BF542}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58BB01B4-AF01-4647-9514-3DD21706CBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BB01B4-AF01-4647-9514-3DD21706CBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BB01B4-AF01-4647-9514-3DD21706CBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BB01B4-AF01-4647-9514-3DD21706CBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

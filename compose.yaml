@@ -1,0 +1,6 @@
+﻿services:
+  studentenrollmentapi:
+    image: studentenrollmentapi
+    build:
+      context: .
+      dockerfile: StudentEnrollmentApi/Dockerfile
